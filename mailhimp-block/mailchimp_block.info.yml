@@ -1,0 +1,4 @@
+name: Mailchimp Block
+description: Experimental! Modularised mailchimp good for multisites or multiple mailchimp account
+type: module
+core: 8.x
